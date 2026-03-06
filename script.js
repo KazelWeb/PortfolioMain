@@ -80,7 +80,8 @@ function createProjectCard(project) {
     
     let mediaContent = '';
     if (project.videoUrl) {
-        mediaContent = `<video controls><source src="${project.videoUrl}" type="video/mp4"></video>`;
+        const videoSrc = project.videoUrl.startsWith('Images/') || project.videoUrl.startsWith('http') ? project.videoUrl : `Images/${project.videoUrl}`;
+        mediaContent = `<video controls><source src="${videoSrc}" type="video/mp4"></video>`;
     } else if (project.videoPlaceholder) {
         mediaContent = `<div data-placeholder="${project.videoPlaceholder}"></div>`;
     } else {
