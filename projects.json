@@ -1,18 +1,18 @@
 {
   "profile": {
-    "name": "Your Name",
+    "name": "Klen",
     "title": "Creative Developer & Designer",
-    "image": "https://via.placeholder.com/150",
+    "image": "Images/Klenprof.png",
     "socials": [
       {
-        "icon": "🎮",
-        "label": "Discord Username",
-        "url": "https://discord.com"
+        "icon": "Images/Discordlogo.png",
+        "label": "xzklen",
+        "url": "#"
       },
       {
-        "icon": "🎯",
+        "icon": "Images/Robloxlogo.png",
         "label": "Roblox Profile",
-        "url": "z"
+        "url": "https://www.roblox.com/users/5631000677/profile"
       }
     ]
   },
