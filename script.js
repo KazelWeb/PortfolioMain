@@ -152,7 +152,7 @@ function getSampleProjects() {
             title: 'Project Two',
             description: 'Add your project description here.',
             date: '2024',
-            videoUrl: '',
+            videoUrl: 'Idkman.mp4',
             videoPlaceholder: 'Mp4 Video',
             images: []
         },
