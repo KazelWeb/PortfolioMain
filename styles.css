@@ -307,6 +307,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 250px;
+    height: 250px;
     color: var(--white);
     font-size: 1.2rem;
     font-weight: 600;
@@ -314,7 +315,13 @@ body {
     overflow: hidden;
 }
 
-.project-media video,
+.project-media video {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .project-media img {
     width: 100%;
     height: 100%;
