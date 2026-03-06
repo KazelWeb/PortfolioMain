@@ -124,7 +124,7 @@ function createProjectCard(project) {
         </div>
         ${project.description ? `<p class="project-description">${project.description}</p>` : ''}
         <div class="project-content">
-            <div class="project-media empty">
+            <div class="project-media ${!project.videoUrl ? 'empty' : ''}">
                 ${mediaContent}
             </div>
             <div class="project-images">
