@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Professional Work Showcase</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">Portfolio</div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero/Profile Section -->
+    <section id="home" class="hero">
+        <div class="hero-container">
+            <div class="profile-section">
+                <img src="images/Klenprof.png" alt="Profile" class="profile-image">
+                <div class="profile-info">
+                    <h1 class="hero-title">Klen</h1>
+                    <p class="hero-description">Creative Developer & Designer</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">
+                                <img src="images/Discordlogo.png" alt="Discord" class="social-logo discord-logo-large">
+                            <span>xzklen</span>
+                        </a>
+                        <a href="https://www.roblox.com/users/5631000677/profile" class="social-link" target="_blank">
+                            <img src="images/Robloxlogo.png" alt="Roblox" class="social-logo">
+                            <span>Roblox Profile</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="projects-container">
+            <h2 class="section-title">Featured Projects</h2>
+            
+            <div class="projects-grid" id="projectsGrid">
+                <!-- Projects will be loaded here from config.json -->
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="about-container">
+            <h2 class="section-title">About Me</h2>
+            <p class="about-text">
+                Welcome to my portfolio. I showcase my creative projects and professional work here.
+                Each project demonstrates my skills in development, design, and creative problem-solving.
+            </p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2026 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Image modal for enlarging documentation images -->
+    <div id="imageModal" class="modal" aria-hidden="true">
+        <button class="modal-close" aria-label="Close">✕</button>
+        <button class="modal-prev" aria-label="Previous">‹</button>
+        <div class="modal-content">
+            <img src="" alt="Enlarged media" class="modal-image">
+        </div>
+        <button class="modal-next" aria-label="Next">›</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
