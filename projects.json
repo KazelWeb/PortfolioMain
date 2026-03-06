@@ -23,7 +23,7 @@
       "date": "2024",
       "videoUrl": "",
       "videoPlaceholder": "Mp4 Video",
-      "images": []
+      "images": ['Robloxlogo.png', 'Discordlogo.png', 'Robloxlogo.png', 'Discordlogo.png','Robloxlogo.png', 'Discordlogo.png', 'Robloxlogo.png']
     },
     {
       "title": "Creative Work",
@@ -41,3 +41,4 @@
     }
   ]
 }
+
