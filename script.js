@@ -75,7 +75,7 @@ function createProjectCard(project) {
         if (s.startsWith('http://') || s.startsWith('https://') || s.startsWith('data:') || s.startsWith('/') || s.includes('/')) {
             return s;
         }
-        return `images/${s}`;
+        return `Images/${s}`;
     }
     
     let mediaContent = '';
