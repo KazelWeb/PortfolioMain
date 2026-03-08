@@ -302,7 +302,7 @@ body {
 
 .project-right-column {
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 250px 250px;
     gap: 1rem;
 }
 
