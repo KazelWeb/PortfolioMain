@@ -127,10 +127,16 @@ function createProjectCard(project) {
             <div class="project-media ${!project.videoUrl ? 'empty' : ''}">
                 ${mediaContent}
             </div>
-            <div class="project-images">
-                <h3>Media</h3>
-                <p>Documentation<br>Images</p>
-                ${imagesContent}
+            <div class="project-right-column">
+                <div class="project-text-placeholder">
+                    <h4>Project Details</h4>
+                    <p>Add your project description, details, and information here.</p>
+                </div>
+                <div class="project-images">
+                    <h3>Media</h3>
+                    <p>Documentation<br>Images</p>
+                    ${imagesContent}
+                </div>
             </div>
         </div>
     `;
