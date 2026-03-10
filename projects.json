@@ -19,26 +19,110 @@
   "about": "Welcome to my portfolio. I showcase my creative projects and professional work here. Each project demonstrates my skills in development, design, and creative problem-solving.",
   "projects": [
     {
-      "title": "arEA Notification System",
+      "title": "Area Notification System",
       "date": "Duration: 1 hour maximum",
       "videoUrl": "AreaNotification.mp4",
       "videoPlaceholder": "Mp4 Video",
-      "images": ["Images/Discordlogo.png", "Images/Robloxlogo.png", "Images/Discordlogo.png", "Images/Robloxlogo.png", "Images/Discordlogo.png", "Images/Robloxlogo.png"]
+      "images": ["Images/Areapicture.PNG"]
     },
     {
-      "title": "Creative Work",
-      "date": "2024",
-      "videoUrl": "",
+      "title": "Building System with DataStore",
+      "date": "Duration: 2 hours maximum",
+      "videoUrl": "BuildingSysWIthDS.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/Buildingpic.PNG"]
+    },
+    {
+      "title": "Card Inventory Concept",
+      "date": "Duration: 2 hours maximum",
+      "videoUrl": "CardConcept.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": []
     },
-    {
-      "title": "Latest Project",
-      "date": "2025",
-      "videoUrl": "",
+      {
+      "title": "Case Game System",
+      "date": "Duration: 4 hours maximum",
+      "videoUrl": "CaseGame.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/CaseGamepic1.PNG", "Images/CaseGamepic2.PNG"]
+    },
+     {
+      "title": "Clicker Simulator Game",
+      "date": "Duration: 2 hours maximum",
+      "videoUrl": "ClickerSim.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/ClickerPic1.PNG"]
+    },
+      {
+      "title": "Intermediate Combat System",
+      "date": "Duration: 2 hours maximum",
+      "videoUrl": "IntermediateCombat.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/Combatpic1.PNG", "Images/Combatpic2.PNG"]
+      },
+      {
+      "title": "Crafting System Core Mechanics",
+      "date": "Duration: 1 hour maximum",
+      "videoUrl": "Craftsys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/CraftImg1.PNG"]
+      },
+            {
+      "title": "Daily Rewards System",
+      "date": "Duration: 1 hour maximum",
+      "videoUrl": "DailyRewardsSys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/DailyPic1.PNG", "Images/Dailypic2.PNG"]
+      },
+            {
+      "title": "Tower Defense Game Core Mechanics",
+      "date": "Duration: 4 hours maximum",
+      "videoUrl": "TowerDefense.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/TDSpic1.PNG", "Images/Tdspic2.PNG", "Images/DeployedUnits.PNG"]
+      },
+            {
+      "title": "RPG System Core Mechanics",
+      "date": "Duration: 3 hours maximum",
+      "videoUrl": "FullRPGSys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/FullRpgpic1.PNG", "Images/Fullrpgpic2.PNG", "Images/Fulllrpgpic3.PNG"]
+      },
+                  {
+      "title": "RPG Inventory Concept",
+      "date": "Duration: 8 hours maximum",
+      "videoUrl": "InventorySheathe.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": []
-    }
+      },
+                  {
+      "title": "MM2 Style System Concept",
+      "date": "Duration: 5 hours maximum",
+      "videoUrl": "Mm2Sys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/mm2pic1.PNG", "Images/mm2pic2.PNG"]
+      },
+                  {
+      "title": "Checkpoint Obby System Core",
+      "date": "Duration: 20 minutes maximum",
+      "videoUrl": "ObbyCPSys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": ["Images/ObbyPic1.PNG", "Images/Obbypic2.PNG"]
+      },
+                        {
+      "title": "Trade System Core Mechanics",
+      "date": "Duration: 1 hour maximum",
+      "videoUrl": "TradeSys.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": []
+      },
+                        {
+      "title": "TextLabel Visual Plugin ColorEffects",
+      "date": "Duration: 20 minutes maximum",
+      "videoUrl": "VisualPlugin.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": []
+      }
   ]
 }
 
