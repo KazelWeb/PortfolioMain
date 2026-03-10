@@ -67,62 +67,70 @@
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/CraftImg1.PNG"]
       },
-            {
+      {
       "title": "Daily Rewards System",
       "date": "Duration: 1 hour maximum",
       "videoUrl": "DailyRewardsSys.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/DailyPic1.PNG", "Images/Dailypic2.PNG"]
       },
-            {
+      {
       "title": "Tower Defense Game Core Mechanics",
       "date": "Duration: 4 hours maximum",
       "videoUrl": "TowerDefense.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/TDSpic1.PNG", "Images/Tdspic2.PNG", "Images/DeployedUnits.PNG"]
       },
-            {
+      {
       "title": "RPG System Core Mechanics",
       "date": "Duration: 3 hours maximum",
       "videoUrl": "FullRPGSys.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/FullRpgpic1.PNG", "Images/Fullrpgpic2.PNG", "Images/Fulllrpgpic3.PNG"]
       },
-                  {
+      {
       "title": "RPG Inventory Concept",
       "date": "Duration: 8 hours maximum",
       "videoUrl": "InventorySheathe.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": []
       },
-                  {
+      {
       "title": "MM2 Style System Concept",
       "date": "Duration: 5 hours maximum",
       "videoUrl": "Mm2Sys.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/mm2pic1.PNG", "Images/mm2pic2.PNG"]
       },
-                  {
+      {
       "title": "Checkpoint Obby System Core",
       "date": "Duration: 20 minutes maximum",
       "videoUrl": "ObbyCPSys.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/ObbyPic1.PNG", "Images/Obbypic2.PNG"]
       },
-                        {
+      {
       "title": "Trade System Core Mechanics",
       "date": "Duration: 1 hour maximum",
       "videoUrl": "TradeSys.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/Tradepic1.PNG"]
       },
-                        {
+      {
       "title": "TextLabel Visual Plugin ColorEffects",
-      "date": "Duration: 20 minutes maximum",
+      "date": "Duration: 3 Hours maximum",
       "videoUrl": "VisualPlugin.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": []
+      },
+      {
+      "title": "Round System Core Mechanics",
+      "date": "Duration: 5 Hours maximum",
+      "videoUrl": "RoundSystem.mp4",
+      "videoPlaceholder": "Mp4 Video",
+      "images": []
       }
+      
   ]
 }
 
