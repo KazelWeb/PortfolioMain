@@ -19,9 +19,9 @@
   "about": "Welcome to my portfolio. I showcase my creative projects and professional work here. Each project demonstrates my skills in development, design, and creative problem-solving.",
   "projects": [
     {
-      "title": "Amazing Project!!",
-      "date": "2024",
-      "videoUrl": "Idkman.mp4",
+      "title": "arEA Notification System",
+      "date": "Duration: 1 hour maximum",
+      "videoUrl": "AreaNotification.mp4",
       "videoPlaceholder": "Mp4 Video",
       "images": ["Images/Discordlogo.png", "Images/Robloxlogo.png", "Images/Discordlogo.png", "Images/Robloxlogo.png", "Images/Discordlogo.png", "Images/Robloxlogo.png"]
     },
