@@ -114,7 +114,7 @@
       "date": "Duration: 1 hour maximum",
       "videoUrl": "TradeSys.mp4",
       "videoPlaceholder": "Mp4 Video",
-      "images": []
+      "images": ["Images/Tradepic1.PNG"]
       },
                         {
       "title": "TextLabel Visual Plugin ColorEffects",
